@@ -1,0 +1,5 @@
+最小生成树：
+    Prim: https://www.luogu.com.cn/record/34555546
+    KruskalL: https://www.luogu.com.cn/record/34543268
+一道dijskra的题，但是有时间还是重写一遍吧： D:\\CODE\\algorithm_contestt\\raining match\\10_14\\D.cpp
+我果然还是重写了，还写出了个脑残的错误: https://www.luogu.com.cn/record/43819374
