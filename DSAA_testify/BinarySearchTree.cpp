@@ -2,6 +2,7 @@
 #include<iostream>
 #include<vector>
 #include<stack>
+#include<iso646.h>
 using namespace std;
 
 // 模板不方便调试，使用Comparable代替
