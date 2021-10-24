@@ -226,8 +226,8 @@ int main()
     // vector<Comparable> pre({3,1,2,3,4,5,6});
     // vector<Comparable> mid({1,2,3,3,4,5,6});
     // vector<Comparable> post({2,1,6,5,4,3,3});
-    vector<Comparable> pre({'A','B','E','C','D','F','G','H','I','J'});
-    vector<Comparable> mid({'E','B','C','D','A','F','H','I','G','J'});
+    vector<Comparable> mid({'D','B','E','A','F','C','G'});
+    vector<Comparable> pre({'A','B','D','E','C','F','G'});
 
     Tree tree;
     tree.pre_mid_build(pre,mid);
